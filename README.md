@@ -1,5 +1,57 @@
 # Data Analysis Portfolio
 
+# Online Retailer Data Analysis
+
+## Project Overview
+This repository contains data analysis projects focused on Online Retailer data. The analysis includes data cleaning, exploratory data analysis (EDA), visualizations, and dashboard creation using various tools like Python, SQL, Power BI, and Excel.
+
+## Files and Directories
+
+### Online Retailer Data Analysis
+- **Data_cleaning_on_online_retailer.ipynb**: Jupyter Notebook for data cleaning using Python.
+- **Exploratory_Data_Analysis_on_online_retailer.ipynb**: Jupyter Notebook for performing EDA.
+- **visualizations_on_online_retailer.ipynb**: Jupyter Notebook containing visualizations.
+- **Online retailer dashboard for analysis.pbix**: Power BI dashboard for data visualization and insights.
+- **online_retail.zip**: Raw (uncleaned) dataset in ZIP format.
+- **Data_cleaning_on_online_retailer.zip**: Cleaned dataset in ZIP format.
+
+### Titanic Dataset Analysis
+- **Data_cleaning_on_titanic.ipynb**: Jupyter Notebook for Titanic dataset cleaning.
+- **Exploratory_Data_Analysis_on_titanic.ipynb**: Jupyter Notebook for Titanic dataset EDA.
+- **visualizations_on_titanic.ipynb**: Jupyter Notebook containing visualizations for the Titanic dataset.
+- **titanic_dashboard.pbix**: Power BI dashboard for Titanic dataset analysis.
+- **titanic.zip**: Raw (uncleaned) Titanic dataset.
+- **Data_cleaning_on_titanic.zip**: Cleaned Titanic dataset in ZIP format.
+
+### Car Sales Data Analysis
+- **Data_cleaning_on_car_sales.ipynb**: Jupyter Notebook for Car Sales dataset cleaning.
+- **Exploratory_Data_Analysis_on_car_sales.ipynb**: Jupyter Notebook for Car Sales dataset EDA.
+- **visualizations_on_car_sales.ipynb**: Jupyter Notebook containing visualizations for the Car Sales dataset.
+- **car_sales_dashboard.pbix**: Power BI dashboard for Car Sales dataset analysis.
+- **car_sales.zip**: Raw (uncleaned) Car Sales dataset.
+- **Data_cleaning_on_car_sales.zip**: Cleaned Car Sales dataset in ZIP format.
+
+## Tools and Technologies Used
+- **Python**: Data cleaning, analysis, and visualization.
+- **Pandas & NumPy**: Data manipulation and processing.
+- **Matplotlib & Seaborn**: Data visualization.
+- **SQL**: Data querying and analysis.
+- **Power BI**: Dashboard creation and insights visualization.
+- **Excel**: Additional data exploration and reporting.
+
+## How to Use This Repository
+1. Clone the repository.
+2. Extract the datasets from the ZIP files.
+3. Run the Jupyter Notebooks in the given order:
+   - Data Cleaning
+   - Exploratory Data Analysis
+   - Visualizations
+4. Open Power BI files to explore the dashboards.
+
+## Contact
+For any questions or collaborations, feel free to reach out!
+
+
 Welcome to my Data Analysis Portfolio! This repository showcases various projects I’ve worked on, analyzing datasets such as **Titanic**, **Car Sales**, and **Online Retailer**. The analysis includes **data cleaning**, **exploratory data analysis (EDA)**, and **visualizations** using tools like **Python**, **SQL**, **Excel**, and **Power BI**.
 
 ## Projects Overview
